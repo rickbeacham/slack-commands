@@ -1,0 +1,14 @@
+    /away TIME (where TIME is either an actual or period of time): Toggles your away status.
+    /active TIME (where TIME is either an actual or period of time): Toggles yourself as active.
+    /dnd TIME (where TIME is a description of time): Allows you to start or end a Do Not Disturb session.
+    /invite @USER #CHANNEL (where USER is a username and CHANNEL is the name of a channel): Allows you to invite a user to a channel.
+    /join #CHANNEL (where CHANNEL is the name of a channel): How you join a particular Slack channel.
+    /leave #CHANNEL (where CHANNEL is the name of a channel): Used to leave a specific channel.
+    /me TEXT (where TEXT is a message): Prints out a message within a channel in italics.
+    /mute CHANNEL (where CHANNEL is the name of a specific channel): Allows you to mute and unmute a specific channel.
+    /remind @USER #CHANNEL to WHAT WHEN (where USER is a username, CHANNEL is the name of a channel WHAT is what you want to remind the user or channel of, and WHEN is a time): Allows you to send a reminder (at a specified time) to either a user or a channel.
+    /search TEXT (where text is a string of text): Allows you to search messages and files within Slack.
+    /star: Allows you to star the current message or thread.
+    /status TEXT (where TEXT is a string of text): Allows you to set or clear your status.
+    /topic TEXT (where TEXT is the topic to be set): Allows you to set a topic for a channel.
+    /who: Lists members of the current channel (up to 100).
